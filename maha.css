@@ -1,0 +1,306 @@
+.maha{
+text-align:left;
+}
+
+.mahabharata{
+ background-color: white;
+         width: 100%;
+}
+
+.mahabharata1 h2 {
+  margin-left: 20px;
+}
+
+.mahabharata1{
+
+        background-color: #B22222;
+        color:white;
+         width: 50%;
+        display:block;
+        margin-left: 0px;
+         float:left;
+        text-align:center;
+        position:relative;
+        padding:10px;
+        font-family:"Lucida Console", Monaco, monospace;
+        font-size:"7";
+}
+
+.mahabharata2{
+
+         height: 120px;
+         background-color:#B22222;
+         padding:20px;
+         width: 100%;
+
+}
+aside {
+    width: 100%;
+    float: right;
+    margin-top: 10px;
+    height: auto;
+    position: relative;
+    background-color: #4CAF50;
+}
+
+
+.mahabharata4{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    border: 2px solid red;
+    padding: 10px;
+    float: left;
+    font-family:'Muli', Arial, Verdana;
+}
+.section2 {
+    width: 27%;
+    height: 100%;
+    margin-top: 10px;
+    float: right;
+    border-color: red;
+}
+.mahabharata2 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#B22222 ;
+}
+
+.mahabharata2 li {
+  float: left;
+}
+
+.mahabharata2 li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.mahabharata2 li a:hover {
+  background-color: black;
+}
+.active:hover {
+  background-color: #4CAF50;
+}
+.mahabharata5{
+ position: relative;
+ background-color: white;
+ width: 100%;
+ height: 100%;
+
+}
+
+element.style {
+}
+.mahabharata8 {
+    background-color: #B22222;
+    color: white;
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: right;
+    text-align: center;
+    position: relative;
+
+
+}
+
+.m1 {
+    background-color: #B22222;
+    color: white;
+    width: 50%;
+    height: 50%;
+    display: block;
+    /* margin-left: 2%; */
+    float: right;
+    text-align: center;
+    position: relative;
+    height: 100%;
+    /* border: 1px black solid; */
+}
+body{
+font-family: 'Muli', Arial, Verdana;
+    font-size: 1.0em;
+    border: 0;
+    }
+.mahabharata9{
+    background-color: #B22222;
+    color: white;
+    display: block;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+
+
+}
+.mahabharata8 a {
+ color: red;
+ text-decoration: none;
+ }
+
+
+}
+.mahabharata7 a {
+ color: red;
+ text-decoration: none;
+ }
+
+.mahabharata7 {
+    background-color: #DCDCDC;
+    display: block;
+    color: red;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+}
+.mahabharata10 {
+    background-color: #DCDCDC;
+    display: block;
+    color: red;
+    margin-top: 30.1px;
+    width: 100%;
+    text-align: left;
+    height: 100%;
+
+
+}
+.mahabharata10 h6{
+text-align:left;
+}
+.mahabharata10 a {
+ color: red;
+ text-decoration: none;
+ }
+
+.mahabh1{
+ border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.mahabharata11 {
+    background-color: #DCDCDC;
+    color: red;
+    border: 1px solid red;
+    height: 30%;
+    width: 100%;
+}
+
+table, td, th {
+  width:100%;
+}
+table th{
+color:white;
+background-color:#B22222;
+height:40px;
+text-align: left;
+}
+table {
+  border-collapse: collapse;
+  }
+  tr{
+  text-align:left;
+  }
+.mahabharata4 {
+  background: url("Krishna-in-Mahabharat.jpg") no-repeat center center fixed;
+  background-size: 100% 100%;
+  color: white;
+
+
+}
+  tr:nth-child(even){background-color: #f2f2f2}
+
+  body {font-family: Arial, Helvetica, sans-serif;}
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.abc {
+    width: 50%;
+    height: 390px;
+    position: relative;
+    float: left;
+    margin: 10px;
+
+}
+/* Dropdown Button */
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  float: right;
+  margin-top: -150px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+header{
+  width: 100%;g
+}
+
+footer {
+  position: relative;
+}

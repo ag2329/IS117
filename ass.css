@@ -1,0 +1,225 @@
+.maha{
+text-align:left;
+}
+
+.mahabharata{
+ background-color: white;
+         width: 100%;
+        height: 100%;
+}
+
+.mahabharata1 h2 {
+  margin-left: 20px;
+}
+
+.mahabharata1{
+
+        background-color: #B22222;
+        color:white;
+         width: 50%;
+        height: 100px;
+        display:block;
+        margin-left: 0px;
+         float:left;
+        text-align:center;
+        position:relative;
+        padding:10px;
+        font-family:"Lucida Console", Monaco, monospace;
+        font-size:"7";
+}
+
+.mahabharata2{
+
+         height: 120px;
+         background-color:#B22222;
+         padding:20px;
+
+}
+aside {
+
+    width: 28%;
+    float: right;
+    margin-top: 10px;
+    height: auto;
+    position: relative;
+    background-color: #4CAF50;
+
+}
+.mahabharata3{
+position:relative;
+width:100%;
+height: 30%;
+}
+
+.mahabharata4{
+    background-color: #DCDCDC;
+    position: relative;
+    width: 70%;
+    height: 100%;
+    margin-top: 10px;
+    border: 2px solid red;
+    padding: 10px;
+    float: left;
+    font-family:'Muli', Arial, Verdana;
+}
+.section2 {
+    width: 27%;
+    height: 100%;
+    margin-top: 10px;
+    float: right;
+    border-color: red;
+}
+.mahabharata2 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#B22222 ;
+}
+
+.mahabharata2 li {
+  float: left;
+}
+
+.mahabharata2 li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.mahabharata2 li a:hover {
+  background-color: black;
+}
+.active:hover {
+  background-color: #4CAF50;
+}
+.mahabharata5{
+ position: relative;
+ background-color: white;
+ width: 100%;
+ height: 100%;
+
+}
+
+element.style {
+}
+.mahabharata8 {
+    background-color: #B22222;
+    color: white;
+    width: 100%;
+    height: 50%;
+    display: block;
+    margin-left: 74%;
+    float: right;
+    text-align: center;
+    position: relative;
+}
+
+.m1 {
+    background-color: #B22222;
+    color: white;
+    width: 100%;
+    height: 50%;
+    display: block;
+    /* margin-left: 74%; */
+    float: right;
+    text-align: center;
+    position: relative;
+    height: 100%;
+}
+body{
+font-family: 'Muli', Arial, Verdana;
+    font-size: 1.0em;
+    border: 0;
+    color: #111;
+    }
+.mahabharata9{
+    background-color: #B22222;
+    color: white;
+    display: block;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+
+
+}
+.mahabharata8 a {
+ color: red;
+ text-decoration: none;
+ }
+
+
+}
+.mahabharata7 a {
+ color: red;
+ text-decoration: none;
+ }
+
+.mahabharata7 {
+    background-color: #DCDCDC;
+    display: block;
+    color: red;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+}
+.mahabharata10{
+ background-color: #DCDCDC;
+    display: block;
+    color:red;
+    margin-top: 10px;
+    float: right;
+    position: relative;
+    width: 100%;
+    height: 100px;
+    text-align: left;
+}
+.mahabharata10 h6{
+text-align:left;
+}
+.mahabharata10 a {
+ color: red;
+ text-decoration: none;
+ }
+
+.mahabh1{
+ border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.mahabharata11 {
+    background-color: #DCDCDC;
+    color: red;
+    border: 1px solid red;
+    height: 30%;
+    width: 100%;
+    float: right;
+    position: relative;
+}
+
+table, td, th {
+  width:100%;
+}
+table th{
+color:white;
+background-color:#B22222;
+height:40px;
+text-align: left;
+}
+table {
+  border-collapse: collapse;
+  }
+  tr{
+  text-align:left;
+  }
+
+  tr:nth-child(even){background-color: #f2f2f2}
+
